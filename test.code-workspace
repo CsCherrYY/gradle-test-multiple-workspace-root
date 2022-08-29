@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "sample_building_java_applications-groovy-dsl"
+		},
+		{
+			"path": "sample_building_java_applications_multi_project-groovy-dsl"
+		}
+	],
+	"settings": {}
+}
